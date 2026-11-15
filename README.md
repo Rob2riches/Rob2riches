@@ -1,4 +1,4 @@
-# Robert Richards
+# Robert Richards
 
 Operations and infrastructure — eighteen years keeping 24/7 systems running
 across facilities, fleet and enterprise IT. CompTIA Security+ (DoD 8570 IAM I),
