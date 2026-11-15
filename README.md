@@ -1,16 +1,15 @@
-## Hi there 👋
+# Robert Richards
 
-<!--
-**Rob2riches/Rob2riches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations and infrastructure — eighteen years keeping 24/7 systems running
+across facilities, fleet and enterprise IT. CompTIA Security+ (DoD 8570 IAM I),
+Network+, Linux+. MS Network & Communications Management.
 
-Here are some ideas to get you started:
+Currently building out infrastructure automation and detection engineering
+against my own lab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+- [lab-automation](https://github.com/Rob2riches/lab-automation) — Ansible
+  configuration management and rolling patching across Linux hosts, linted in
+  CI with a protected main branch.
+
+Madison, AL / Metro Atlanta, GA · rrichardsjm@outlook.com
